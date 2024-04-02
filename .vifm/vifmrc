@@ -569,3 +569,11 @@ nnoremap <c-u> <c-w>x
 
 " Activate screen/tmux support
 " screen!
+
+" ------------------------------------------------------------------------------
+" Icon decorations example
+" ------------------------------------------------------------------------------
+
+" https://github.com/cirala/vifm_devicons
+
+fileview * defviewer %c

@@ -1,2 +1,2 @@
 # dotfiles
-Just som dotfiles
+Just some dotfiles
